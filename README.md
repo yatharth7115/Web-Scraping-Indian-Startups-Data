@@ -1,6 +1,6 @@
 # Web-Scraping-Indian-Startups-Data
 The chosen topic for this web scraping project is to gather information about Indian 
-startups. This data oAers valuable insights into the entrepreneurial landscape, enabling 
+startups. This data offers valuable insights into the entrepreneurial landscape, enabling 
 analyses of trends such as funding, employment growth, and the industries driving 
 innovation in India. 
 The data was scraped from the Failory website, specifically from the page showcasing 
